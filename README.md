@@ -257,7 +257,9 @@ Impacto: Se a compra for interrompida mas mesmo assim registrada, o comprador po
 | 3 | Mensagens de frete/prazo na home inconsistente com CEP (promessa não cumprida) | Alto |
 | 4 | Carrossel pesado/travado prejudica LCP/CTR dos destaques e converte em menos vendas | Médio |
 | 5 | Venda acima do estoque via CTA da home (ex.: anúncio unitário permitindo comprar >1) | Alto |
-|   | RISCO POTENCIAL - Catálogo de produtos|  |
+|   |
+|   | **RISCO POTENCIAL - CATÁLAGO DE PRODUTOS**   |  |
+|   |
 | 6 | Busca falhar com caracteres especiais (#$%&*@). Pode impedir usuários de encontrar produtos; afeta experiência mas não bloqueia compra diretamente | Médio |
 | 7 | Diferença de resultados ao usar maiúsculas/minúsculas. Usuários podem acreditar que o produto não existe; reduz usabilidade e confiança no sistema. | Médio |
 | 8 | Sistema não tratar espaços em excesso. Usuários podem não localizar produtos existentes, causando frustração e perda de vendas. | Médio |
